@@ -1,0 +1,19 @@
+.wrapper {
+    display: flex;
+}
+
+.menu {
+    background-color: rgba(156, 165, 236, 0.04);
+}
+
+.title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 32px;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background-color:#D8D8D8;
+}
