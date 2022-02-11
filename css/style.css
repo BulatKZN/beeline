@@ -3,17 +3,155 @@
 }
 
 .menu {
-    background-color: rgba(156, 165, 236, 0.04);
+   width: 280px;
+   /* padding-left: 30px; */
+   padding-top: 19px;
+}
+
+.logo {
+    display: flex;
+    padding-left: 30px;
+}
+
+.logo-icon {
+    margin-right: 70px;
+}
+
+.logo-text {
+    color:#fff;
+    font-size: 10px;
+    font-weight: 500;
 }
 
 .title {
     font-size: 22px;
     font-weight: 700;
     line-height: 32px;
+    color: #fff;
+    margin-bottom: 15px;
+    padding-left: 30px;
 }
 
 .line {
     width: 100%;
     height: 1px;
     background-color:#D8D8D8;
+    margin-bottom: 30px;
 }
+
+
+/* accordion */
+
+.accordion {
+    margin-bottom: 15px;
+    /* padding-left: 30px; */
+}
+
+.accordion-item {
+    margin-bottom: 5px;
+}
+
+.accordion_list {
+    display: none;
+}
+
+.accordion-title {
+    display: block;
+    cursor: pointer;
+    transition: color .2s ease-out;
+    position: relative;
+    margin-left: 30px;
+    margin-bottom: 18px;
+}
+
+.accordion-title:after {
+    content: '';
+    display: block;
+    border-style: solid;
+    border-width: 0 5px 6px 5px;
+    border-color: transparent transparent #fff transparent;
+    position: absolute;
+    top: 50%;
+    left: 240px;
+    transform: translateY(-50%);
+}
+
+
+
+.accordion-input:checked ~ .accordion-title {
+    color:#778090 ;
+}
+
+.accordion-input:checked ~ .accordion-title:after {
+    border-style: solid;
+    border-width: 6px 5px 0 5px;
+    border-color: #fff transparent transparent transparent;
+}
+
+.accordion-title:hover {
+    color:#778090;
+}
+
+.accordion-input {
+    width: 0;
+    height: 0;
+    appearance: none;
+    position: absolute;
+}
+
+
+
+
+.accordion-input:checked ~ .accordion_list {
+    display: block;
+}
+
+.accordion-subtitle {
+    cursor:pointer;
+    padding-left: 47px;
+}
+
+.accordion-subtitle-item {
+    padding-left: 0;
+}
+
+.accordion-subtitle-icon {
+    width: 18px;
+    height: 18px;
+    margin-right: 24px;
+}
+
+.menu-subtitle {
+    padding-left: 30px;
+    margin-bottom: 13px;
+}
+
+.accordion-subtitle-wrapper {
+    display: flex;
+    padding-left: 47px;
+    border-left: solid 3px transparent;
+    padding-top: 15px;
+    padding-bottom: 15px;   
+}
+
+.accordion-subtitle-wrapper:hover {
+    background: rgba(255, 255, 255, 0.03);
+    border-color: #6F6EFF;
+    cursor: pointer;
+    
+
+}
+
+
+
+.accordion-title-item::after {
+    content: '';
+    display: none;
+   
+}
+
+.notification {
+    margin-top: 186px;
+    margin-left: 30px;
+}
+
