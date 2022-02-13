@@ -1,4 +1,4 @@
-12450
+12468
 115C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\caniuse-lite\data\features\devicepixelratio.js121436361000000000 0
 76C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\wcwidth132888045961746666 1
 97C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\object.assign\test\native.js121436361000000000 0
@@ -21,9 +21,10 @@
 84C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\mkdirp\index.js121436361000000000 0
 93C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\abortcontroller-polyfill132888045959882686 1
 104C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\features\instance\splice.js121436361000000000 0
+77C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\top-bar\photo.svg132892355914953851 0
 86C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\nan\nan_private.h131637928500000000 0
 96C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\node-forge\lib\tlssocket.js121436361000000000 0
-60C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist132890548035059344 1
+60C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist132892466524154810 1
 86C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\crypto-browserify132888045961846401 1
 100C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\nan\nan_converters_pre_43_inl.h131637928500000000 0
 89C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\stable\error132888045941732327 1
@@ -65,7 +66,7 @@
 97C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\object-inspect\test\undef.js121436361000000000 0
 98C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\nullthrows\nullthrows.js.flow121436361000000000 0
 100C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@babel\helper-simple-access\lib132888045911714838 1
-59C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img132890546882003480 1
+59C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img132892439974136069 1
 103C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\stable\string\ends-with.js121436361000000000 0
 93C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\pako\lib\zlib\inflate.js121436361000000000 0
 107C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\postcss-selector-parser\dist\parser.js121436361000000000 0
@@ -86,7 +87,7 @@
 96C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\css-select\lib\compile.d.ts121436361000000000 0
 93C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\pako\lib\utils\common.js121436361000000000 0
 101C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\actual\array\is-array.js121436361000000000 0
-66C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\index.html132890547070792665 0
+66C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\index.html132892468147425624 0
 110C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\stable\typed-array\int32-array.js121436361000000000 0
 89C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\inherits\inherits.js121436361000000000 0
 123C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\internals\wrap-error-constructor-with-cause.js121436361000000000 0
@@ -1031,7 +1032,7 @@
 98C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\object-inspect\test\bigint.js121436361000000000 0
 114C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\css-tree\lib\syntax\node\AttributeSelector.js121436361000000000 0
 87C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\posthtml\readme.md121436361000000000 0
-83C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.66daa216.css.map132890490503417002 0
+83C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.66daa216.css.map132892374573800108 0
 98C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\weak-lru-cache\LRFUExpirer.js121436361000000000 0
 90C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\ansi-regex\index.d.ts121436361000000000 0
 79C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\pbkdf2\lib132888045910155620 1
@@ -1069,7 +1070,7 @@
 132C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\bl\node_modules\readable-stream\lib\internal\streams\destroy.js121436361000000000 0
 89C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\strip-ansi\readme.md121436361000000000 0
 95C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\ws\lib\websocket-server.js121436361000000000 0
-78C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\logo.247cd4f4.svg132889746743854983 0
+78C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\logo.247cd4f4.svg132892359019330125 0
 86C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@trysound\sax\lib132888045905481178 1
 114C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\jake\node_modules\supports-color\package.json132888045966010395 0
 69C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\kubik.svg132890424996610974 0
@@ -1485,7 +1486,7 @@
 111C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\es-abstract\2020\CreateIterResultObject.js121436361000000000 0
 89C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\querystring\index.js130069921000000000 0
 106C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\msgpackr-extract\prebuilds\darwin-x64132888045930919291 1
-78C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.a5aab44a.js132889746743755218 0
+78C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.a5aab44a.js132892359019851685 0
 103C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\stable\number\is-finite.js121436361000000000 0
 139C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json121436361000000000 0
 83C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\url\.npmignore130421725210000000 0
@@ -2064,7 +2065,7 @@
 88C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\yaml\types\pairs.js121436361000000000 0
 108C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\features\async-iterator\drop.js121436361000000000 0
 100C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\highlight.js\scss\pojoaque.scss121436361000000000 0
-79C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\ladya.efc82e96.svg132890511423665113 0
+79C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\ladya.efc82e96.svg132892359019330125 0
 114C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\bundler-default\src\DefaultBundler.js121436361000000000 0
 86C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\yaml\types\set.js121436361000000000 0
 86C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\wrap-ansi\license121436361000000000 0
@@ -3284,7 +3285,7 @@
 89C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\browserslist\LICENSE121436361000000000 0
 115C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\http-proxy-middleware\dist\config-factory.d.ts121436361000000000 0
 95C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\stream-browserify\index.js121436361000000000 0
-82C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.a5aab44a.js.map132889746743765182 0
+82C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.a5aab44a.js.map132892359019911533 0
 141C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-x64.node121436361000000000 0
 94C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\stream-browserify\LICENSE121436361000000000 0
 99C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\stream-browserify\node_modules132888045957681974 1
@@ -3981,7 +3982,7 @@
 88C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\public-encrypt\test132888045911289665 1
 97C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\public-encrypt\withPublic.js121436361000000000 0
 109C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\modules\esnext.map.map-values.js121436361000000000 0
-79C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\myach.3424e797.svg132890511423665113 0
+79C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\myach.3424e797.svg132892359019330125 0
 101C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\public-encrypt\test\ec.pass.priv121436361000000000 0
 96C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\es-abstract\2016\MakeDay.js121436361000000000 0
 84C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\debug\.eslintrc131505605660000000 0
@@ -4607,7 +4608,7 @@
 93C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\pako\lib\zlib\deflate.js121436361000000000 0
 117C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@babel\core\lib\transformation\file\merge-map.js121012626000000000 0
 98C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\highlight.js\lib\highlight.js121436361000000000 0
-68C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\css\base.css132890490502494160 0
+68C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\css\base.css132892374572810562 0
 93C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\pako\lib\zlib\inffast.js121436361000000000 0
 119C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@swc\helpers\src\_tagged_template_literal_loose.js132732112500000000 0
 94C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\pako\lib\zlib\messages.js121436361000000000 0
@@ -6108,7 +6109,7 @@
 100C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\is-boolean-object\.eslintignore121436361000000000 0
 93C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\hash.js\lib\hash\hmac.js121436361000000000 0
 94C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\is-boolean-object\.github132888045923359981 1
-79C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\kubik.75dd420b.svg132890511423885403 0
+79C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\kubik.75dd420b.svg132892359019841727 0
 93C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\is-boolean-object\.nycrc121436361000000000 0
 105C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\modules\es.typed-array.of.js121436361000000000 0
 95C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\is-boolean-object\index.js121436361000000000 0
@@ -6765,7 +6766,7 @@
 118C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\caniuse-lite\data\features\css-backdrop-filter.js121436361000000000 0
 137C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\hash-base\node_modules\readable-stream\lib\internal\streams\state.js121436361000000000 0
 117C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\globals\node_modules\type-fest\source\entry.d.ts121436361000000000 0
-80C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\raketa.146a74d0.svg132890511423665113 0
+80C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\raketa.146a74d0.svg132892359019330125 0
 95C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\core\lib\Parcel.js121436361000000000 0
 94C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\has-tostringtag\.eslintrc121436361000000000 0
 97C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\has-tostringtag\package.json132888045966883489 0
@@ -7164,6 +7165,7 @@
 100C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\bl\node_modules\readable-stream132888045962644270 1
 82C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\escalade\sync132888045924436710 1
 93C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\escalade\sync\index.d.ts121436361000000000 0
+84C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\arrow_left.87e9841a.svg132892440490570227 0
 133C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\fs-write-stream-atomic\fixtures\thread-id-test-worker.js121436361000000000 0
 91C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\escalade\sync\index.js121436361000000000 0
 91C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\escalade\dist\index.js121436361000000000 0
@@ -7238,7 +7240,7 @@
 90C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\es-abstract\README.md121436361000000000 0
 101C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\es-abstract\operations\.eslintrc121436361000000000 0
 96C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\es-abstract\2018\MakeDay.js121436361000000000 0
-77C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\sms.46cbcaec.svg132890547072037231 0
+77C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\sms.46cbcaec.svg132892359019841727 0
 111C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@babel\helper-split-export-declaration\lib132888045911664974 1
 99C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\es-abstract\operations\2015.js121436361000000000 0
 99C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\es-abstract\operations\2018.js121436361000000000 0
@@ -9136,7 +9138,7 @@
 111C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\features\array\virtual\includes.js121436361000000000 0
 104C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\modules\es.function.name.js121436361000000000 0
 102C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\modules\es.global-this.js121436361000000000 0
-78C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\mech.57e13a76.svg132890426440857196 0
+78C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\mech.57e13a76.svg132892359019841727 0
 105C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\modules\es.json.stringify.js121436361000000000 0
 116C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\caniuse-lite\data\features\input-file-accept.js121436361000000000 0
 94C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\modules\es.map.js121436361000000000 0
@@ -10213,6 +10215,7 @@
 111C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\actual\instance\find-last-index.js121436361000000000 0
 105C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\actual\instance\find-last.js121436361000000000 0
 101C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\actual\instance\flags.js121436361000000000 0
+91C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\content-program\arrow_right.svg132892439016634547 0
 104C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\actual\instance\flat-map.js121436361000000000 0
 104C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\core-js\actual\instance\for-each.js121436361000000000 0
 91C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@types\node\index.d.ts132887394890000000 0
@@ -10797,7 +10800,7 @@
 119C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\caniuse-lite\data\features\intersectionobserver.js121436361000000000 0
 114C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\caniuse-lite\data\features\intrinsic-width.js121436361000000000 0
 105C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\caniuse-lite\data\features\jpegxl.js121436361000000000 0
-79C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.66daa216.css132890490503387090 0
+79C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.66daa216.css132892374573780143 0
 119C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\caniuse-lite\data\features\js-regexp-lookbehind.js121436361000000000 0
 127C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js121436361000000000 0
 129C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\caniuse-lite\data\features\keyboardevent-getmodifierstate.js121436361000000000 0
@@ -11309,6 +11312,7 @@
 95C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\optimizer-htmlnano132888045960803616 1
 92C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\package-manager132888045960873431 1
 90C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\packager-html132888045960853480 1
+80C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\18 lek.d03fcea4.svg132892388004554417 0
 88C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\packager-js132888045960853480 1
 110C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@babel\types\lib\modifications\typescript132888045925020196 1
 89C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\packager-svg132888045960853480 1
@@ -11894,6 +11898,7 @@
 111C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\core\test\fixtures\invalid-targets132888045931118772 1
 114C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\core\test\fixtures\library-scopehoist132888045931259335 1
 116C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\core\test\fixtures\main-format-mismatch132888045931319166 1
+75C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\content-program132892459841834386 1
 107C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\core\test\fixtures\main-global132888045931379002 1
 107C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\core\test\fixtures\module-a.js121436361000000000 0
 107C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\node_modules\@parcel\core\test\fixtures\module-b.js121436361000000000 0
@@ -12443,9 +12448,22 @@
 69C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\myach.svg132890425276335460 0
 70C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\raketa.svg132890421973675492 0
 71C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\strelka.svg132890390174452320 0
-79C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.b2625c6b.css132890548035029453 0
-83C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.b2625c6b.css.map132890548035049492 0
-71C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.html132890547072057184 0
-81C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\mozaika.ba1a6669.svg132890511423885403 0
+67C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\top-bar132892387739975137 1
+77C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\top-bar\15 dz.svg132892387294169071 0
+78C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\top-bar\18 lek.svg132892387505069563 0
+78C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\top-bar\energy.svg132892355406974272 0
+78C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\top-bar\online.svg132892356269116275 0
+90C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\content-program\arrow_left.svg132892439468578646 0
+88C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\img\content-program\img-info.svg132892459457663267 0
+79C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\15 dz.e59486a9.svg132892388004441675 0
+85C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\arrow_right.403f33b4.svg132892440490550289 0
+80C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\energy.cccc90ff.svg132892359019330125 0
+82C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\img-info.63d9f5b2.svg132892460138057598 0
+79C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.b2625c6b.css132892453027017356 0
+83C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.b2625c6b.css.map132892453027037303 0
+71C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\index.html132892466524154142 0
+81C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\mozaika.ba1a6669.svg132892359019841727 0
+80C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\online.1c7ed5b3.svg132892360221846382 0
+79C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\photo.eabeef68.svg132892359019861659 0
 81C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\dist\strelka.d0c717aa.svg132890390921533069 0
-69C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\css\style.css132890548034212584 0
+69C:\Users\bulat\OneDrive\projects-2\Verstkanovoe\beeline\css\style.css132892453026016320 0

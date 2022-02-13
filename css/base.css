@@ -12,3 +12,9 @@ body {
     background-color:#2B2C3A;
     color: #fff;
 }
+
+a {
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
